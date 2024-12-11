@@ -1,0 +1,125 @@
+[
+  {
+    "transaction_id": "T1",
+    "payload": [
+      {"customer_id": "C101", "date": "2024-12-01T10:15:30Z", "store_id": "S1"},
+      {"customer_id": "C102", "date": "2024-12-01T10:20:45Z", "store_id": "S1"}
+    ]
+  },
+  {
+    "transaction_id": "T2",
+    "payload": [
+      {"customer_id": "C103", "date": "2024-12-02T12:00:00Z", "store_id": "S2"}
+    ]
+  },
+  {
+    "transaction_id": "T3",
+    "payload": [
+      {"customer_id": "C104", "date": "2024-12-03T09:30:15Z", "store_id": "S3"},
+      {"customer_id": "C105", "date": "2024-12-03T11:45:10Z", "store_id": "S3"}
+    ]
+  },
+  {
+    "transaction_id": "T4",
+    "payload": [
+      {"customer_id": "C106", "date": "2024-12-04T14:10:00Z", "store_id": "S4"}
+    ]
+  },
+  {
+    "transaction_id": "T5",
+    "payload": [
+      {"customer_id": "C107", "date": "2024-12-05T08:00:00Z", "store_id": "S5"}
+    ]
+  },
+  {
+    "transaction_id": "T6",
+    "payload": [
+      {"customer_id": "C108", "date": "2024-12-06T16:20:30Z", "store_id": "S6"}
+    ]
+  },
+  {
+    "transaction_id": "T7",
+    "payload": [
+      {"customer_id": "C109", "date": "2024-12-07T13:15:20Z", "store_id": "S7"},
+      {"customer_id": "C110", "date": "2024-12-07T13:30:45Z", "store_id": "S7"}
+    ]
+  },
+  {
+    "transaction_id": "T8",
+    "payload": [
+      {"customer_id": "C111", "date": "2024-12-08T11:00:00Z", "store_id": "S8"}
+    ]
+  },
+  {
+    "transaction_id": "T9",
+    "payload": [
+      {"customer_id": "C112", "date": "2024-12-09T18:30:00Z", "store_id": "S9"}
+    ]
+  },
+  {
+    "transaction_id": "T10",
+    "payload": [
+      {"customer_id": "C113", "date": "2024-12-10T20:00:15Z", "store_id": "S10"}
+    ]
+  },
+  {
+    "transaction_id": "T11",
+    "payload": [
+      {"customer_id": "C114", "date": "2024-12-11T09:00:30Z", "store_id": "S11"}
+    ]
+  },
+  {
+    "transaction_id": "T12",
+    "payload": [
+      {"customer_id": "C115", "date": "2024-12-12T07:45:20Z", "store_id": "S12"}
+    ]
+  },
+  {
+    "transaction_id": "T13",
+    "payload": [
+      {"customer_id": "C116", "date": "2024-12-13T10:25:50Z", "store_id": "S13"}
+    ]
+  },
+  {
+    "transaction_id": "T14",
+    "payload": [
+      {"customer_id": "C117", "date": "2024-12-14T13:40:00Z", "store_id": "S14"}
+    ]
+  },
+  {
+    "transaction_id": "T15",
+    "payload": [
+      {"customer_id": "C118", "date": "2024-12-15T14:00:30Z", "store_id": "S15"}
+    ]
+  },
+  {
+    "transaction_id": "T16",
+    "payload": [
+      {"customer_id": "C119", "date": "2024-12-16T17:50:00Z", "store_id": "S16"}
+    ]
+  },
+  {
+    "transaction_id": "T17",
+    "payload": [
+      {"customer_id": "C120", "date": "2024-12-17T11:20:45Z", "store_id": "S17"}
+    ]
+  },
+  {
+    "transaction_id": "T18",
+    "payload": [
+      {"customer_id": "C121", "date": "2024-12-18T15:30:15Z", "store_id": "S18"}
+    ]
+  },
+  {
+    "transaction_id": "T19",
+    "payload": [
+      {"customer_id": "C122", "date": "2024-12-19T09:15:30Z", "store_id": "S19"}
+    ]
+  },
+  {
+    "transaction_id": "T20",
+    "payload": [
+      {"customer_id": "C123", "date": "2024-12-20T08:30:00Z", "store_id": "S20"}
+    ]
+  }
+]
